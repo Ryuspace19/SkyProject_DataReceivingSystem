@@ -1,4 +1,4 @@
-# SkyProject_DataReceivingSystem
+﻿# SkyProject_DataReceivingSystem
  SkyProject-HPAC24-Boat Instructor Software
 
 
@@ -11,3 +11,7 @@ To use this system, the following conditions must be met
 ・You must be in a Windows environment (ver. unknown)
 ・The system must be able to input data from a COM port on the PC.
 ・The data must be in a format that is compatible with the data.
+
+
+
+	
